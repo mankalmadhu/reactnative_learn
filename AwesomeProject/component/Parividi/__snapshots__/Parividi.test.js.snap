@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Parividi Render 1`] = `
+<RCTScrollView
+  dataSource={
+    ListViewDataSource {
+      "items": 3,
+    }
+  }
+  renderRow={[Function]}
+  renderScrollComponent={[Function]}
+  style={
+    Object {
+      "flex": 1,
+      "marginTop": 20,
+    }
+  }
+>
+  <View>
+    <div>
+      Prakarana 
+      aiden lucas
+    </div>
+    <div>
+      Prakarana 
+      mario walters
+    </div>
+    <div>
+      Prakarana 
+      joseph lambert
+    </div>
+  </View>
+</RCTScrollView>
+`;

@@ -1,11 +1,5 @@
-const {
-  AppRegistry,
-  StyleSheet,
-  Image,
-  Text,
-  View,
-  ListView
-} = ReactNative;
+import {ListView} from 'react-native';
+import React from 'react';
 
 import Prakarana from '../Prakarana/Prakarana';
 import parividiVinyasa from './Parividi.Styles';
@@ -30,3 +24,5 @@ class Parividi extends React.Component {
     );
   }
 }
+
+export default Parividi;

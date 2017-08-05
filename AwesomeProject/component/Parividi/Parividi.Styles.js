@@ -1,6 +1,6 @@
-const {
+import {
  StyleSheet
-} = ReactNative;
+} from 'react-native';
 
 
 const parividiVinyasa = StyleSheet.create({

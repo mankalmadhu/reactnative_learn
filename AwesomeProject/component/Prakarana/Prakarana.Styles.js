@@ -1,6 +1,4 @@
-const {
- StyleSheet
-} = ReactNative;
+import { StyleSheet } from 'react-native';
 
 const prakaranaVinyasa = StyleSheet.create({
   container: {

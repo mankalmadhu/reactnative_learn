@@ -1,3 +1,6 @@
+import React from 'react';
+import { View, Image, Text } from 'react-native';
+import prakaranaVinyasa from './Prakarana.Styles';
 
 const Prakarana = (props) => (
   <View style={prakaranaVinyasa.container}>
